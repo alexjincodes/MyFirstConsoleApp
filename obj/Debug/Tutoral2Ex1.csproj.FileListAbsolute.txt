@@ -1,0 +1,6 @@
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\bin\Debug\Tutoral2Ex1.exe.config
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\obj\Debug\Tutoral2Ex1.csprojResolveAssemblyReference.cache
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\bin\Debug\Tutoral2Ex1.exe
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\bin\Debug\Tutoral2Ex1.pdb
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\obj\Debug\Tutoral2Ex1.exe
+c:\users\jesus rice\documents\visual studio 2015\Projects\Tutoral2Ex1\Tutoral2Ex1\obj\Debug\Tutoral2Ex1.pdb
